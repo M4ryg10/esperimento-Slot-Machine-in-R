@@ -6,4 +6,4 @@ Le uniche combianzioni vincenti sono le terne dei simboli inseriti all'interno d
 
 L'esperimento può essere modificato anche inserendo come combinazioni vincenti non solo le terne, ma anche le diagonali o gli ambi dei simboli inseriti, o in forma truccata si determina la vittoria con la terna o ambo di un singolo simbolo o con il jackpot.
 
-Ps: Il codice non è ottimizzato, i commenti sono stati inseriti per migliorare la descrizione della funzione del programma ed è stato usato per sostenere l'esame di Calcolo della Probabilità e della Statistica. 
+Ps: Il codice non è ottimizzato, i commenti sono stati inseriti per migliorare la descrizione della funzione del programma ed è stato usato per sostenere l'esame di Calcolo della Probabilità e Statistica matematica. 
